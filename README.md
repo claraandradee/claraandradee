@@ -9,8 +9,8 @@
   <img align="center" alt="clara-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="clara-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="clara-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="clara-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="clara-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/csharp-original.svg">
+  <img align="center" alt="clara-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="clara-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/csharp-original.svg">
   <img align="center" alt="clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
