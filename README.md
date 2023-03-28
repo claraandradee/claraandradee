@@ -16,6 +16,7 @@
   <img align="center" alt="clara-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="clara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="clara-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="clara-sqlServer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlserver/sqlserver-original.svg">
 </div>
 
   ##
